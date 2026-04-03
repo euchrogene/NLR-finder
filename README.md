@@ -30,9 +30,9 @@ sudo chmod 777 EG_tools
 sudo mv EG_tools /usr/bin
 ```
 
-### 1. Install NLR-Finder
+### 1. Install NLR-finder
 ```
-sudo EG_tools install -r https://github.com/euchrogene/NLR-Finder.git -d /usr/local/bin/NLR-Finder -e NLR-finder_v.1.0 -m "NB-LRR disease resistance gene identification and annotation"
+sudo EG_tools install -r https://github.com/euchrogene/NLR-finder.git -d /usr/local/bin/NLR-finder -e NLR-finder_v.1.0 -m "NB-LRR disease resistance gene identification and annotation"
 ```
 
 ### 2. Display installed software

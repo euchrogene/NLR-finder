@@ -40,7 +40,7 @@ Keep any v1.0 **results** you have already published or submitted. Do not silent
 
 ```bash
 sudo EG_tools install \
-  -r NLR-finder.git \
+  -r https://github.com/euchrogene/NLR-finder.git \
   -d NLR-finder \
   -e NLR-finder_v.2.0 \
   -m "NLR disease resistance repertoire annotation from a proteome"
